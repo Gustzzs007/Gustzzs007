@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 💙
 
-Meu nome é Gustavo Barbos
+Meu nome é Gustavo Barbosa
 
 - Estou estudando na Udemy, e no Sujeito Progamador
 - Estou me desenvolvendo na linguagem HTML, CSS, JavaScript, TypeScript e Node.js
