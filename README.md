@@ -21,5 +21,4 @@ Meu nome é Gustavo Barbosa
 
 ## contatos
 - [Meu instagram](https://www.instagram.com/gustzzss/)
-- [Meu email](gustzzs.007@gmail.com)
   
