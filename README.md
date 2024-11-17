@@ -19,7 +19,7 @@ Meu nome é Gustavo Barbosa
       <img aling="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
       <img aling="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 
-
 ## contatos
 - [Meu instagram](https://www.instagram.com/gustzzss/)
 - [Meu email](gustzzs.007@gmail.com)
+  
