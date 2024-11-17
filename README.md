@@ -6,11 +6,4 @@ Meu nome é Gustavo Barbos
 - Estou me desenvolvendo na linguagem HTML, CSS, JavaScript, TypeScript e Node.js
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos
 
-### Você entrar em contato comigo 📬
-
-gustzzs.007@gmail.com
-
-@gustzzss
-
-(12) 992273233
-
+[![gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gustzzs.007@gmail.com)
