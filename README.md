@@ -8,6 +8,8 @@ Meu nome é Gustavo Barbosa
 
   ![Gustzzs GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustzzs007&show_icons=true&theme=radical)
 
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustzzs007&size_weight=0.5&count_weight=0.5)
+
   ## tecnologia que uso no meu dia
 
   <div style="display: inline_block"><br/>
@@ -16,3 +18,8 @@ Meu nome é Gustavo Barbosa
       <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
       <img aling="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
       <img aling="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+
+## contatos
+- [Meu instagram](https://www.instagram.com/gustzzss/)
+- [Meu email](gustzzs.007@gmail.com)
