@@ -3,7 +3,7 @@
 Meu nome é Gustavo Barbos
 
 - Estou estudando na Udemy, e no Sujeito Progamador
-- Estou me desenvolvendo na linguagem HTML, Css, JavaScript, TypeScript e Node.js
+- Estou me desenvolvendo na linguagem HTML, CSS, JavaScript, TypeScript e Node.js
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos
 
 ### Você entrar em contato comigo 📬
