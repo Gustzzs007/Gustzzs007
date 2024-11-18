@@ -2,8 +2,8 @@
 
 Meu nome é Gustavo Barbosa
 
-- Estou estudando na Udemy, e no Sujeito Progamador
-- Estou me desenvolvendo na linguagem HTML, CSS, JavaScript, TypeScript e Node.js
+ - Estou aperfeiçoando-me todos os dias na função de frontend e especialização React.
+ - Estou me desenvolvendo na linguagem HTML, CSS, JavaScript, TypeScript e Node.js
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos
 
   ![Gustzzs GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustzzs007&show_icons=true&theme=radical)
