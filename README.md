@@ -2,7 +2,7 @@
 
 Meu nome é Gustavo Barbosa
 
- - Estou aperfeiçoando-me todos os dias na função de frontend e especialização React.
+ - Estou me especializando em React, minha paixão é participar de aplicativo em Fronted
  - Estou me desenvolvendo na linguagem HTML, CSS, JavaScript, TypeScript e Node.js
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos
 
